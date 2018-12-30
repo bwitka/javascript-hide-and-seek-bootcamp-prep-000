@@ -14,4 +14,6 @@ function deepestChild() {
 }
 
 //increases ranks in .ranked-list by n:
-function 
+function  increaseRankBy(n) {
+  
+}
