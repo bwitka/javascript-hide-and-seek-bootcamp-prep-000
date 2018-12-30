@@ -11,7 +11,7 @@ function nestedTarget() {
 //returns the most deeply nested child in #grand-node:
 function deepestChild() {
   let stringOfDivs = document.querySelectorAll('#grand-node div');
-  return stringOfDivs[-1];
+  return stringOfDivs[stringOfDivs.length - 1];
 }
 
 //increases ranks in .ranked-list by n:
