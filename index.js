@@ -1,4 +1,4 @@
-
+//returns the first element that matches the selector:
 function getFirstSelector(selector) {
   
 }
@@ -8,3 +8,4 @@ function nestedTarget() {
   
 }
 
+//
