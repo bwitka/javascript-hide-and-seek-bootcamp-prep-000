@@ -5,7 +5,7 @@ function getFirstSelector(selector) {
 
 //pulls a .target out of #nested:
 function nestedTarget() {
-  return document.getElementById()
+  return document.getElementById('app').;
 }
 
 //returns the most deeply nested child in #grand-node:
